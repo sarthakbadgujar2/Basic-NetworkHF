@@ -151,5 +151,5 @@ certificateAuthorities:
 
     registrar:
       - enrollId: admin
-        enrollSecret: adminpw
+        enrollSecret: adminpw1
     caName: ca.org2.example.com
